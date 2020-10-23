@@ -31,7 +31,7 @@ The three models are designed on same dataset and evaluated to know the best mod
 The data is evaluated using Random Forest Classifier to show the performance in prediction of cutomer interest on vehicle health insurance. The model is saved for later use when requirement. This shows a better performance results. The performance of the model depends on the tuning of hyperparameters.
 
 ## 5. Vizualizing, Saving Results, Choosing Random 100 Data Points
-The values obtained are vizualized and added a ''Response column to test data. The total test data is saved for better understanding. The 100 data points are chosen randomly from the test data and to show how the **Pre-Trained Model** predicted for the dataset. This showed the same results by the model in the previous section of the same test data.
+The values obtained are vizualized through **Heat Map, Accuracy** and added a ''Response column to test data. The total test data is saved for better understanding. The 100 data points are chosen randomly from the test data and to show how the **Pre-Trained Model** predicted for the dataset. This showed the same results by the model in the previous section of the same test data.
 
 ## 6. References
 Dataset: https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction?select=sample_submission.csv
