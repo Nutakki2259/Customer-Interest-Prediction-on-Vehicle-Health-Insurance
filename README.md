@@ -1,7 +1,19 @@
 # Three-Machine-Learning-Models-for-the-Prediction-of-Customer-Interest-on-Vehicle-Health-Insurance
 Customer Interest on vehicle health insurance is evaluated from the best of 3 models i.e., Logistic Regression, KNN, Random Forest. 
 
-## Pre-Requests:
+## Pre-Requests: 
+### Download:
+**.** Repository:
+                
+                **1.** If you want to download directly there is a download button on the right corner of this repository or else use Command Prompt. 
+                
+                **2.** In Windows first install Git software Open Command Prompt--> git clone https://github.com/Nutakki2259/Three-Machine-Learning-Models-for-the-Prediction-of-Customer-Interest-on-Vehicle-Health-Insurance.git
+                
+                **3.** In Anaconda Open Command Prompt--> conda activate <conda environment name> --> git clone https://github.com/Nutakki2259/Three-Machine-Learning-Models-for-the-Prediction-of-Customer-Interest-on-Vehicle-Health-Insurance.git
+
+Note: The folder will be saved at the place where the command prompt shows activate for example: '(Python3.7) C:\Users\pradeep>git clone https://github.com/Nutakki2259/Three-Machine-Learning-Models-for-the-Prediction-of-Customer-Interest-on-Vehicle-Health-Insurance.git'
+
+**.** Dataset: The data is loaded from dataset folder that is provided and the reference Kaggle link is provided at the of repository. It is must to change the 'dataset_path' in the section '1. Loading Train and Test Datasets' where the repository is downloaded.
 
 ## 1. Data Description
 The data is taken from the Kaggle website 'Health Insurance Cross Sell Prediction' dataset. The data consits of 12 variable parameters of which 'Response' column is the target data. This column appears in train dataset where as test data consists of remaining 11 columns.
